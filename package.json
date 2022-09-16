@@ -1,0 +1,24 @@
+{
+  "name": "mongo-ejerciciosg14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mespinozar/mongo-ejerciciosG14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mespinozar/mongo-ejerciciosG14/issues"
+  },
+  "homepage": "https://github.com/mespinozar/mongo-ejerciciosG14#readme",
+  "dependencies": {
+    "mongoose": "^6.6.0"
+  }
+}
